@@ -7,7 +7,8 @@ This website serves as a repository for my reading notes from various courses. I
 ### Code 102 - Intro to Software Development
 
 - [Code 102 Notes](code-102.md)
-
+### Sql
+- [Databases and SQL](databases-and-SQL.md)
 
 ### Code 401 - Advanced Software Development
 
