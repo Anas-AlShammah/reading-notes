@@ -17,8 +17,10 @@ This website serves as a repository for my reading notes from various courses. I
 - [Command Line Notes](command_line_notes.md)
 
 ### Code 401 - Advanced Software Development
-
 - [Code 401 Notes](code-401.md)
+- [Exception Handling](Exception Handling.md)
+- [Data Structures and Algorithms](Data Structures and Algorithms.md)
+
 
 ---
 
