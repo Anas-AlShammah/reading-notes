@@ -24,6 +24,10 @@ Base case: A base case is a condition that stops the recursion. For example, if 
 Maximum recursion depth: You can also set a maximum recursion depth. This is the maximum number of times that the function can be called recursively before it stops.
 It is important to note that recursion can be a very powerful tool, but it can also be dangerous if it is not used correctly. It is important to understand the risks of recursion and to take steps to avoid infinite recursion.
 ### Big-O
+
+![Alt Text](Data%20Structures%20and%20Algorithms/data1.png)
+![Alt Text](Data%20Structures%20and%20Algorithms/data2.webp)
+
 is the way how we measure how good a data structue is doing a specifc thing
 
 like adding,sorting,searching
@@ -35,6 +39,9 @@ array is quite literally a continuous block of cells in the computer memory by k
 really good at retrieving items 
 in lower-level languages we have to declare the size of our array in advance okey
 ### 2. Linked Lists
+
+![Alt Text](Data%20Structures%20and%20Algorithms/data3.jpeg)
+
 the atomic unit of the linked list is node 
 which contains a value and a pointer (connect us to the next node in the chain )
 first node named the head
