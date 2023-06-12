@@ -22,7 +22,7 @@ This website serves as a repository for my reading notes from various courses. I
 - [Data Structures and Algorithms](Data%20Structures%20and%20Algorithms.md)
 - [The Growth Mindset](The%20Growth%20Mindset.md)
 - [Unit Test](Unit%20Test.md)
--  
+
 ---
 
 ## Features of Markdown
