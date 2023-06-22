@@ -24,6 +24,8 @@ This website serves as a repository for my reading notes from various courses. I
 - [Unit Test](Unit%20Test.md)
 - [File Manipulation](File%20Manipulation.md)
 - [Classes & Memory Management](Classes%20&%20Memory%20Management.md)
+- [Linked Lists](Linked Lists.md)
+
 ---
 
 ## Features of Markdown
