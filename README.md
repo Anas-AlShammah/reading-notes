@@ -27,6 +27,7 @@ This website serves as a repository for my reading notes from various courses. I
 - [Linked Lists](Linked%20Lists.md)
 - [OOp](OOP.md)
 - [Interface](Interfaces.md)
+- [Collections Enums](Collections&Enums.md)
 ---
 
 ## Features of Markdown
