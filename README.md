@@ -28,6 +28,7 @@ This website serves as a repository for my reading notes from various courses. I
 - [OOp](OOP.md)
 - [Interface](Interfaces.md)
 - [Collections Enums](Collections&Enums.md)
+- [Dependency Injection & Repository Design Pattern](Dependency%20Injection%20&%20Repository%20Design%20Pattern.md)
 ---
 
 ## Features of Markdown
