@@ -31,6 +31,7 @@ This website serves as a repository for my reading notes from various courses. I
 - [Dependency Injection & Repository Design Pattern](Dependency%20Injection%20&%20Repository%20Design%20Pattern.md)
 
 - [Navigation Properties and Routing](Navigation%20Properties%20and%20Routing.md)
+- [Trees](Trees.md)
 ---
 
 ## Features of Markdown
