@@ -33,7 +33,7 @@ This website serves as a repository for my reading notes from various courses. I
 - [Navigation Properties and Routing](Navigation%20Properties%20and%20Routing.md)
 - [Trees](Trees.md)
 - [DTos](DTos.md)
----
+- [JWT](JWT.md)
 
 ## Features of Markdown
 
