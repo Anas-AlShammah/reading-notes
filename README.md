@@ -34,7 +34,7 @@ This website serves as a repository for my reading notes from various courses. I
 - [Trees](Trees.md)
 - [DTos](DTos.md)
 - [JWT](JWT.md)
-
+- [HashTables](Hash-Tables.md)
 ## Features of Markdown
 
 In this README.md file, I have utilized the following features of Markdown:
