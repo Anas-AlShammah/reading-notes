@@ -38,6 +38,7 @@ This website serves as a repository for my reading notes from various courses. I
 
 - [Sendgrid](Sendgrid.md)
  - [Graph](Graph.md)
+ - [Jamstack](Jamstack.md)
 ## Features of Markdown
 
 In this README.md file, I have utilized the following features of Markdown:
